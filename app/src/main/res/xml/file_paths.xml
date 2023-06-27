@@ -1,0 +1,7 @@
+<paths>
+
+    <cache-path
+        name="secure_path_name"
+        path="." />
+
+</paths>
